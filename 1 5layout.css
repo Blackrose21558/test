@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header{
+    background-color: #66a652;
+    text-align: center;
+    color: #fff;
+    padding: 10px 0;
+}
+
+#menu{
+    background-color: #a63377;
+    color: #fff;
+    padding: 5px 20px;
+}
+
+#left-content{
+    background-color: #6536aa;
+    color: white;
+    width: 20%;
+    height: 300px;
+    float: left;
+    border: 2px solid red;
+}
+
+#main-content{
+    background-color: #aa3632;
+    color: white;
+    width: 80%;
+    height: 300px;
+    float: left;
+}
+
+#footer{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+}
